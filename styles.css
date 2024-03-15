@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.hed{
+	color:red;
+}
+#skills{
+	background-color:green;
+}
+#projects{
+	background-clip:ridge;
+	background-color:red;
+}
